@@ -23,7 +23,7 @@ import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
 
-//This is a test
+
 public class AbWorkout extends Activity {
 
     Button back;
